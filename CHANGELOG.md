@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased](https://github.com/orisai/exceptions/compare/1.1.3...v1.x)
 
+## Changed
+
+- Composer
+	- allows PHP 8.3
+
 ## [1.1.3](https://github.com/orisai/exceptions/compare/1.1.2...1.1.3) - 2023-04-08
 
 ## Changed
